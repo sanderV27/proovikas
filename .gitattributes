@@ -1,13 +1,22 @@
 <html><head>
 <title>Tekstiredaktorid</title>
 </head>
-<body>
+<body style="background-color:powderblue;">
 
-	<h1>Erinevad tekstiredaktorid</h1>
+	<h1 style="background-color:tomato;"> Erinevad tekstiredaktorid</h1>
 	<p>Koodi kirjutamiseks valisin tekstiredaktori <i>Sublime Text</i>.</p>
 	<p>Selle saab alla laadida <a href="https://www.sublimetext.com/" target="_blank">siit</a> lehelt.</p>
 	<br>
-	<img src="https://cdn.iconscout.com/icon/free/png-256/sublime-439588.png" alt="Sublime logo">
+	<style>
+	  .frame {
+  	    width: 300px;
+            height: 250px;
+            border: 3px solid #ccc;
+            background: #eee;
+            margin: auto;
+            padding: 15px 10px;
+        }
+	img src="https://cdn.iconscout.com/icon/free/png-256/sublime-439588.png" alt="Sublime logo">
 
 	<h2>On olemas veel teisigi tekstiredaktoreid: </h2>
 	<ul>
